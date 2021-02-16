@@ -1,4 +1,4 @@
-
+# jenkinsfile for pipeline symtax
 pipeline{
     tools{
         jdk 'myjava'
